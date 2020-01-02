@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FormDesign2</string>
+
+    <string name="what_is_your_age_group">What is your age group ?</string>
+    <string name="total_score">Total Score</string>
+    <string name="proposed_investment_types">Proposed Investment types</string>
+    <string name="proposed_investment">Proposed Investment</string>
+    <string name="preferred_investment_types">Preferred investment types</string>
+    <string name="gross_annual_income_deails">Gross Annual Income Deails</string>
+    <string name="gross_annual_income_details">Gross Annual Income Details</string>
+    <string name="investment_experience">Investment Experience</string>
+    <string name="experience_in_market_products">Experience in market products</string>
+    <string name="how_many_dependents_do_you_finally_support">How many dependents do you finally support</string>
+    <string name="what_is_the_size_of_your_emergency_refund">What is the size of your emergency refund</string>
+    <string name="what_is_your_experience_with_equity_investments">What is your experience with equity investments</string>
+    <string name="what_is_your_experience_with_commodity_investments">What is your experience with commodity Investments</string>
+    <string name="what_is_your_experience_with_forex_investments">What is your experience with Forex Investments</string>
+    <string name="what_is_your_experience_with_investments_in_past">What is your experience with investments in past</string>
+    <string name="what_is_your_preference_with_respect_to_securities_with_low_risk_low_return_direct_question_to_ascertain_risk">What is your preference with respect to securities with low risk, low return Direct Question to acertain Risk</string>
+    <string name="when_market_is_not_performing_well_do_you_prefer_to_buy_risk_direct_question_to_ascertain_risk">When market is not performing well, do you prefer to buy risk. Direct question to ascertain Risk</string>
+    <string name="risk_tolerance_ratio_direct_question_to_ascertain_risk">Risk tolerance Ratio Direct Question to ascertain risk</string>
+    <string name="what_percentage_of_monthly_income_is_allocated_to_pay_off_debt_all_emis">What percentage of monthly income is allocated to pay off Debt{all EMIs}?</string>
+    <string name="are_you_any_of_the_following_or_are_directly_or_indirectly_related_to_the_following">Are you any of the following, or are directly or indirectly related to the following</string>
+    <string name="occupation_please_select_the_appropriate">Occupation(please select the appropriate)</string>
+
+</resources>
